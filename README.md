@@ -26,7 +26,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 image.html
-
+```
 <html>
     <head>
         <title>Gallery</title>
@@ -135,7 +135,7 @@ img2.addEventListener("mouseout",()=>
 {
     img2.style.transform="scale(1)"
 });
-
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (28).png>)
